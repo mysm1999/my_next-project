@@ -16,7 +16,7 @@ export default function Home() {
           {/* RIGHT */}
           <div className="w-1/2 pl-4 flex flex-col justify-center">
             <h2 className="text-4xl font-bold text-orange-500">
-              NEXTLEVEL FOOD FOR NEXTLEVEL FOODIES
+              NEXTLEVEL HARD FucKInG FOR NEXTLEVEL FOODIES
             </h2>
             <p className="text-lg mt-4 text-gray-300">
               Taste & share food from all over the world.
